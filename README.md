@@ -1,2 +1,3 @@
 # Quote-Generator-App
- Simple Advice Generator APP using REACT JS
+React Advice Generator App
+
