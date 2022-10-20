@@ -1,3 +1,3 @@
-# Quote-Generator-App
+# Advice-App
 React Advice Generator App
 
